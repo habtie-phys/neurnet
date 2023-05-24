@@ -1,2 +1,2 @@
 # neurnet
-Applying the back-propagation algorithm using only Numpy library of python for a neural network with any number of hidden layers
+Applying the back-propagation algorithm using only the Numpy library of python in a neural network architecture with any number of hidden layers
